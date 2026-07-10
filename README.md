@@ -2,7 +2,9 @@
 
 Product & Project Manager / UI-UX Designer based in Singapore. I translate user research into roadmaps, coordinate cross-functional teams, and ship real products — from AI accessibility tools to marketplace apps on Google Play.
 
-Valedictorian, Chulalongkorn University (Integrated Innovation, 2026) · UC Berkeley SCET
+Valedictorian, Chulalongkorn University (Integrated Innovation) — Graduated 2026 · UC Berkeley SCET
+
+Formerly Project Manager at Tradewind Technologies (through May 2026)
 
 ---
 
