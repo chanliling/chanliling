@@ -4,8 +4,6 @@ Product & Project Manager / UI-UX Designer based in Singapore. I translate user 
 
 Valedictorian, Chulalongkorn University (Integrated Innovation, 2026) · UC Berkeley SCET
 
-Currently: Project Manager @ Tradewind Technologies, shipping product for a P2P marketplace and an AI accessibility assistant.
-
 ---
 
 **Featured work**
