@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Li Ling 👋
 
-<!--
-**chanliling/chanliling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product & Project Manager / UI-UX Designer based in Singapore. I translate user research into roadmaps, coordinate cross-functional teams, and ship real products — from AI accessibility tools to marketplace apps on Google Play.
 
-Here are some ideas to get you started:
+Valedictorian, Chulalongkorn University (Integrated Innovation, 2026) · UC Berkeley SCET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently: Project Manager @ Tradewind Technologies, shipping product for a P2P marketplace and an AI accessibility assistant.
+
+---
+
+**Featured work**
+
+- **[LocoMon](https://github.com/chanliling/portfolio)** — P2P hyperlocal marketplace. Led product development end-to-end: competitor analysis against Carousell and Karrot, core discovery/trust features, and the Android release coordinated via Google Play Console.
+- **Vision Agent** — AI accessibility assistant for visually impaired users. Designed UX flows aligned with regulatory and usability requirements.
+- **HART Manuscript** — Applied data modelling to surface root causes of health disparity patterns and support evidence-based recommendations.
+
+More detail on all of these: **[chanliling/portfolio](https://github.com/chanliling/portfolio)**
+
+---
+
+**Toolkit**
+
+Python · SQL · Figma · Excel (Power Query) · Google Play Console · Tableau · Power BI
+
+---
+
+📫 [Chanliling37@gmail.com](mailto:Chanliling37@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lilingchan/) · [Portfolio](https://github.com/chanliling/portfolio)
