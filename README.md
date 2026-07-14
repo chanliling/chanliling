@@ -21,10 +21,10 @@ More detail on all of these: **[chanliling/portfolio](https://github.com/chanlil
 
 **Design work (Figma)**
 
-- **[Lantern](https://www.figma.com/design/Rk3E5dsbv2D15vVgL7x3gg/Lantern?node-id=0-1&t=6EpddVAuHtmDj8Ql-1)**
-- **[Carbon Sustain website](https://www.figma.com/design/lb8rmOo8oyEDstTDP0AvWk/CarbonSustain---Lin?node-id=0-1&t=4lARbHr8xT9QE4p5-1)**
-- **[Matchlink website](https://www.figma.com/design/g856H1Ceo6w8UPhhABg1nJ/MatchLink?node-id=314-538&t=CdItiOkcX8Fc0MDU-1)** — proof of concept, not complete
-- **[Spring Tuition Center website](https://www.figma.com/design/I3KgeaVtgrlvpzbi2Vc3ue/Spring-Tuition?node-id=0-1&t=keVqvnXK2Wz7DPo1-1)**
+- **[Lantern](https://www.figma.com/proto/Rk3E5dsbv2D15vVgL7x3gg/Lantern?node-id=1-4&t=Z0rebpAYP89H2TGi-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)**
+- **[Carbon Sustain website](https://www.figma.com/proto/BCDQT1w0LKg722P0x3VN5q/Carbon-Sustain?node-id=501-2449&t=DskfJcQBbOeUphbL-1&scaling=min-zoom&content-scaling=fixed&page-id=501%3A678)**
+- **[Matchlink website](https://www.figma.com/proto/g856H1Ceo6w8UPhhABg1nJ/MatchLink?node-id=314-539&t=sbjQ7SqmSpuQe2i1-1&scaling=scale-down&content-scaling=fixed&page-id=314%3A538&starting-point-node-id=314%3A539)** — proof of concept, not complete
+- **[Spring Tuition Center website](https://www.figma.com/proto/I3KgeaVtgrlvpzbi2Vc3ue/Spring-Tuition?node-id=53-1042&t=W9dZeiin1ZTp2hn9-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A68)**
 
 ---
 
