@@ -19,6 +19,15 @@ More detail on all of these: **[chanliling/portfolio](https://github.com/chanlil
 
 ---
 
+**Design work (Figma)**
+
+- **[Lantern](https://www.figma.com/design/Rk3E5dsbv2D15vVgL7x3gg/Lantern?node-id=0-1&t=6EpddVAuHtmDj8Ql-1)**
+- **[Carbon Sustain website](https://www.figma.com/design/lb8rmOo8oyEDstTDP0AvWk/CarbonSustain---Lin?node-id=0-1&t=4lARbHr8xT9QE4p5-1)**
+- **[Matchlink website](https://www.figma.com/design/g856H1Ceo6w8UPhhABg1nJ/MatchLink?node-id=314-538&t=CdItiOkcX8Fc0MDU-1)** — proof of concept, not complete
+- **[Spring Tuition Center website](https://www.figma.com/design/I3KgeaVtgrlvpzbi2Vc3ue/Spring-Tuition?node-id=0-1&t=keVqvnXK2Wz7DPo1-1)**
+
+---
+
 **Toolkit**
 
 Python · SQL · Figma · Excel (Power Query) · Google Play Console · Tableau · Power BI
