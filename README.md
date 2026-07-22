@@ -30,7 +30,7 @@ More detail on all of these: **[chanliling/portfolio](https://github.com/chanlil
 
 **Toolkit**
 
-Python · SQL · Figma · Excel (Power Query) · Google Play Console · Tableau 
+Python · SQL · Figma · Excel (Power Query) · Google Play Console · Tableau
 
 ---
 
