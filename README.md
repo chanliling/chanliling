@@ -1,4 +1,4 @@
-### Hi, I'm Li Ling (or Lin!)👋
+### Hi, I'm Li Ling (or Lin!) 👋
 
 Product & Project Manager / UI-UX Designer based in Singapore. I translate user research into roadmaps, coordinate cross-functional teams, and ship real products, from AI accessibility tools to marketplace apps on Google Play.
 
